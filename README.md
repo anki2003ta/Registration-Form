@@ -5,8 +5,6 @@
   <li>HTML5</li>
   <li>CSS</li>
   <li>JAVASCRIPT</li>
-  <h4>CSS Framework</h4>
-  <li>BootStrap</li>
   <h4>JavaScript RunTime Environment</h4>
   <li>NodeJs</li>
   <h4>VCS</h4>
